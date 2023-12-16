@@ -7,7 +7,7 @@
         50
       ],
       "tensorPath": "https://github.com/jmsabate/embeddings_NoSQL/blob/main/my_embeddings_NoSQL_dp.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
+      "metadataPath": "https://github.com/jmsabate/embeddings_NoSQL/blob/main/my_embeddings_NoSQL_md.tsv"
     }
   ]
 }
