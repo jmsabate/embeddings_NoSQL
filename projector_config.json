@@ -6,7 +6,7 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
+      "tensorPath": "my_embeddings_NoSQL_dp.tsv",
       "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv"
     }
   ]
